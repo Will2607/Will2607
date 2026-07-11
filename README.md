@@ -12,13 +12,19 @@ I enjoy solving engineering problems that go beyond writing code—whether that'
 
 ## 🚀 What I'm Working On
 
-- ✈️ Checkout Platforms
-- 💳 Payment Systems
-- 🔐 Fraud Prevention
-- 👤 Biometric Identity Verification
-- ⚙️ CI/CD Modernization
-- 📊 Observability (SLIs / SLOs)
-- ☁️ Cloud-native Applications
+- ✈️ Airline Digital Commerce & Checkout
+- 💳 Payments, PCI & 3D Secure
+- 🔐 Fraud Prevention & Identity Verification
+- 👤 Biometric Authentication
+- 🛒 Enterprise E-commerce Platforms
+- 🏗️ Scalable Frontend Architecture
+- 🧩 Microfrontends & Design Systems
+- 🔌 Backend-for-Frontend (BFF) & Distributed Systems
+- ☁️ Cloud-Native Applications
+- 🚀 CI/CD, DevSecOps & Platform Engineering
+- 📊 Observability, SLIs, SLOs & Telemetry
+- ⚡ Performance & Reliability Engineering
+- 🧪 Test Automation & Production Quality
 
 ---
 
