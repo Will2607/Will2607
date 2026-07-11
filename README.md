@@ -10,7 +10,7 @@ I specialize in building **scalable**, **high-performance** web and mobile appli
 
 ## 💼 Current Role
 
-🛠️ **Full Stack Developer at Readiness IT**  
+🛠️ **Full Stack Developer at Dataart**  
 > Leading frontend development for a multi-platform e-commerce solution for **Entel Chile**, using **React**, **React Native**, **TypeScript**, and **CI/CD**. Also contributing to backend services and integration layers using **Node.js**, **Express**, and **MongoDB**.
 
 ---
